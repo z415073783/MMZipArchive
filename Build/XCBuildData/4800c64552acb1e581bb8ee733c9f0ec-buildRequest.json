@@ -10,7 +10,7 @@
       "guid" : "87fcad9b44a052c1c2a070886718ad98bc9ebc5fac65731ba09ad7a035d0b0d1"
     }
   ],
-  "containerPath" : "/Users/zlm/Work/Git/MMLibrary-Widget/MMZipArchive.xcodeproj",
+  "containerPath" : "/Users/zlm/Work/Git/MMZipArchive/MMZipArchive.xcodeproj",
   "continueBuildingAfterErrors" : false,
   "enableIndexBuildArena" : false,
   "hideShellScriptEnvironment" : false,
@@ -20,11 +20,11 @@
     "overrides" : {
       "commandLine" : {
         "table" : {
-          "BUILD_DIR" : "/Users/zlm/Work/Git/MMLibrary-Widget/Build",
-          "BUILD_ROOT" : "/Users/zlm/Work/Git/MMLibrary-Widget/Build",
+          "BUILD_DIR" : "/Users/zlm/Work/Git/MMZipArchive/Build",
+          "BUILD_ROOT" : "/Users/zlm/Work/Git/MMZipArchive/Build",
           "ONLY_ACTIVE_ARCH" : "NO",
-          "SDKROOT" : "iphonesimulator15.0",
-          "VALID_ARCHS" : "i386 x86_64"
+          "SDKROOT" : "iphoneos15.0",
+          "VALID_ARCHS" : "arm64 arm64e armv7 armv7s i386 x86_64"
         }
       },
       "synthesized" : {

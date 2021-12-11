@@ -18,19 +18,19 @@
 		</data>
 		<key>Modules/MMZipArchive.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		+znT0A7siwnF2FMyke81RHF4xxI=
+		c+je+rSlaXJjv3xJTr8plerZHaY=
 		</data>
 		<key>Modules/MMZipArchive.swiftmodule/Project/i386.swiftsourceinfo</key>
 		<data>
-		+znT0A7siwnF2FMyke81RHF4xxI=
+		c+je+rSlaXJjv3xJTr8plerZHaY=
 		</data>
 		<key>Modules/MMZipArchive.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		JrBNUCX7JAzTDywCiTbqn9jLb4c=
+		CcG3kv8b2Tz4cG3ScGts5bUINpk=
 		</data>
 		<key>Modules/MMZipArchive.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		JrBNUCX7JAzTDywCiTbqn9jLb4c=
+		CcG3kv8b2Tz4cG3ScGts5bUINpk=
 		</data>
 		<key>Modules/MMZipArchive.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/MMZipArchive.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		RcZMsfeZbOox/b0skyo1lxqHE78=
+		fmFlqjGQybd0FtRLaEHGQZ7GuOE=
 		</data>
 		<key>Modules/MMZipArchive.swiftmodule/i386.swiftdoc</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/MMZipArchive.swiftmodule/i386.swiftmodule</key>
 		<data>
-		RcZMsfeZbOox/b0skyo1lxqHE78=
+		fmFlqjGQybd0FtRLaEHGQZ7GuOE=
 		</data>
 		<key>Modules/MMZipArchive.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/MMZipArchive.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+NlwUg7ZlyhIyTSDF8NsqMyiYL8=
+		VUcXHUtPeM/pU5IozjAIG26XpQw=
 		</data>
 		<key>Modules/MMZipArchive.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/MMZipArchive.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		+NlwUg7ZlyhIyTSDF8NsqMyiYL8=
+		VUcXHUtPeM/pU5IozjAIG26XpQw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,44 +97,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+znT0A7siwnF2FMyke81RHF4xxI=
+			c+je+rSlaXJjv3xJTr8plerZHaY=
 			</data>
 			<key>hash2</key>
 			<data>
-			aaQ2C0Z4roTmRMTlSMiqx/7VKGhK5DNNFvCvb+S88K8=
+			yElHM4hlQBKL397JCT9vqUt3nEObUaUp7chdPDW6E2s=
 			</data>
 		</dict>
 		<key>Modules/MMZipArchive.swiftmodule/Project/i386.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+znT0A7siwnF2FMyke81RHF4xxI=
+			c+je+rSlaXJjv3xJTr8plerZHaY=
 			</data>
 			<key>hash2</key>
 			<data>
-			aaQ2C0Z4roTmRMTlSMiqx/7VKGhK5DNNFvCvb+S88K8=
+			yElHM4hlQBKL397JCT9vqUt3nEObUaUp7chdPDW6E2s=
 			</data>
 		</dict>
 		<key>Modules/MMZipArchive.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JrBNUCX7JAzTDywCiTbqn9jLb4c=
+			CcG3kv8b2Tz4cG3ScGts5bUINpk=
 			</data>
 			<key>hash2</key>
 			<data>
-			pSZp3yT9O7T2U6zVslMvjVdRzRgCZT9FVexSprAv+Lc=
+			mUy6ygxBcwrj9GLiG6KhTeXufWsMQg/hm/7lH/lGjXc=
 			</data>
 		</dict>
 		<key>Modules/MMZipArchive.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JrBNUCX7JAzTDywCiTbqn9jLb4c=
+			CcG3kv8b2Tz4cG3ScGts5bUINpk=
 			</data>
 			<key>hash2</key>
 			<data>
-			pSZp3yT9O7T2U6zVslMvjVdRzRgCZT9FVexSprAv+Lc=
+			mUy6ygxBcwrj9GLiG6KhTeXufWsMQg/hm/7lH/lGjXc=
 			</data>
 		</dict>
 		<key>Modules/MMZipArchive.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -152,11 +152,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RcZMsfeZbOox/b0skyo1lxqHE78=
+			fmFlqjGQybd0FtRLaEHGQZ7GuOE=
 			</data>
 			<key>hash2</key>
 			<data>
-			9r+UlyX7kbVJFktTSTjbQiGXe953DDyWT3KyqE2oUfU=
+			z8Wcz0sCgHlbxqBpM7eWcCpX84do2kdZbHoiUbENqrM=
 			</data>
 		</dict>
 		<key>Modules/MMZipArchive.swiftmodule/i386.swiftdoc</key>
@@ -174,11 +174,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RcZMsfeZbOox/b0skyo1lxqHE78=
+			fmFlqjGQybd0FtRLaEHGQZ7GuOE=
 			</data>
 			<key>hash2</key>
 			<data>
-			9r+UlyX7kbVJFktTSTjbQiGXe953DDyWT3KyqE2oUfU=
+			z8Wcz0sCgHlbxqBpM7eWcCpX84do2kdZbHoiUbENqrM=
 			</data>
 		</dict>
 		<key>Modules/MMZipArchive.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -196,11 +196,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+NlwUg7ZlyhIyTSDF8NsqMyiYL8=
+			VUcXHUtPeM/pU5IozjAIG26XpQw=
 			</data>
 			<key>hash2</key>
 			<data>
-			2FBL4gLPd/MVLECj4/fqurOCgAjanQ+GrljnjgCPfto=
+			Dmp4pXP93mbK1EHChMWfch9xXC/KkrxA3jKUcTYH/0U=
 			</data>
 		</dict>
 		<key>Modules/MMZipArchive.swiftmodule/x86_64.swiftdoc</key>
@@ -218,11 +218,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+NlwUg7ZlyhIyTSDF8NsqMyiYL8=
+			VUcXHUtPeM/pU5IozjAIG26XpQw=
 			</data>
 			<key>hash2</key>
 			<data>
-			2FBL4gLPd/MVLECj4/fqurOCgAjanQ+GrljnjgCPfto=
+			Dmp4pXP93mbK1EHChMWfch9xXC/KkrxA3jKUcTYH/0U=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

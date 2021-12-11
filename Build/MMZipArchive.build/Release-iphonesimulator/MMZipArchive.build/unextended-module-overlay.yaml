@@ -3,11 +3,11 @@
   'case-sensitive': 'false',
   'roots': [{
     'type': 'directory',
-    'name': "/Users/zlm/Work/Git/MMLibrary-Widget/Build/Release-iphonesimulator/MMZipArchive.framework/Modules"
+    'name': "/Users/zlm/Work/Git/MMZipArchive/Build/Release-iphonesimulator/MMZipArchive.framework/Modules"
     'contents': [{
       'type': 'file',
       'name': "module.modulemap",
-      'external-contents': "/Users/zlm/Work/Git/MMLibrary-Widget/build/MMZipArchive.build/Release-iphonesimulator/MMZipArchive.build/unextended-module.modulemap",
+      'external-contents': "/Users/zlm/Work/Git/MMZipArchive/build/MMZipArchive.build/Release-iphonesimulator/MMZipArchive.build/unextended-module.modulemap",
     }]
   }]
 }
