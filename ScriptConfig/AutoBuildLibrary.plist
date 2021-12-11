@@ -15,6 +15,6 @@
 	<key>targetName</key>
 	<string>MMZipArchive</string>
 	<key>validArchs</key>
-	<string>arm64,arm64e,armv7,armv7s,i386,x86_64</string>
+	<string>arm64,armv7,x86_64</string>
 </dict>
 </plist>
