@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "b9a724abcb76064a42b721c254a1f589a41695d0331e9df9a22d40047bfc5c31"
+build_start_time: [1639235923, 133647918]
+build_end_time: [1639235925, 620432853]
+inputs:
+  "/Users/zlm/Work/Git/MMLibrary-Widget/Sources/ZipArchive/MMQuickZip.swift": [1638624175, 715826988]
+  "/Users/zlm/Work/Git/MMLibrary-Widget/Sources/ZipArchive/MMZip.swift": [1638679408, 737290382]
+  "/Users/zlm/Work/Git/MMLibrary-Widget/Sources/ZipArchive/MMZipUtilities.swift": [1638624175, 716607570]

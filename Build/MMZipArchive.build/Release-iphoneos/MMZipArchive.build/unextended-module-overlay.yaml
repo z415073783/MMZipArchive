@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/zlm/Work/Git/MMLibrary-Widget/Build/Release-iphoneos/MMZipArchive.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/zlm/Work/Git/MMLibrary-Widget/build/MMZipArchive.build/Release-iphoneos/MMZipArchive.build/unextended-module.modulemap",
+    }]
+  }]
+}

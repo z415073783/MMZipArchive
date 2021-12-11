@@ -1,0 +1,11 @@
+framework module MMZipArchive {
+  umbrella header "MMZipArchive.h"
+
+  export *
+  module * { export * }
+}
+
+module MMZipArchive.Swift {
+    header "MMZipArchive-Swift.h"
+    requires objc
+}

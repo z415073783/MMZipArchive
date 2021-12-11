@@ -1,0 +1,10 @@
+framework module MMZipArchive {
+  umbrella header "MMZipArchive.h"
+
+  export *
+  module * { export * }
+}
+
+module MMZipArchive.__Swift {
+    exclude header "MMZipArchive-Swift.h"
+}

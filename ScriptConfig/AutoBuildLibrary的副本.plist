@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>validArchs</key>
+	<string>arm64,arm64e,armv7,armv7s,i386,x86_64</string>
+	<key>armTypeList</key>
+	<string>iphoneos,iphonesimulator</string>
+	<key>buildDir</key>
+	<string>Build</string>
+	<key>configType</key>
+	<string>Release</string>
+	<key>onlyActiveArch</key>
+	<string>NO</string>
+	<key>projectName</key>
+	<string>MMLibrary.xcodeproj</string>
+	<key>targetName</key>
+	<string>MMLibrary</string>
+</dict>
+</plist>
